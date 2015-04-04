@@ -1,8 +1,6 @@
 # AIOS
 
-A personal assistant that can learn anything you want. Teach her commands through natural language and watch her automate your computer using computer vision.
-
-AIOS is an automation program that allows users to speak to their computers in natural language, teach it high level commands and automate complex tasks. AIOS utilises the openCV computer vision library to recognise images on the screen, so she can dynamically interact with any user interface and wait for programs/websites to load.
+AIOS is a personal assistant that users can speak to in natural language, teach high level commands and automate complex tasks. AIOS utilises the openCV computer vision library to recognise images on the screen, so she can dynamically interact with any user interface and wait for programs/websites to load.
 
 Very soon you will be able to share and download automation ‘packages’ so that AIOS can learn skills in any of your favourite applications from an online community. Shortly after, you will be able to send AIOS commands from your phone, perhaps asking her to send you a file or maybe start downloading a movie for when you get home.
 
