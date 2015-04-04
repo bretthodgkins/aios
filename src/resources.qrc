@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file>resources/graphics/forest.jpg</file>
+        <file>resources/graphics/aios3.tif</file>
+    </qresource>
+</RCC>
