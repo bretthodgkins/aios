@@ -8,7 +8,7 @@ Very soon you will be able to share and download automation ‘packages’ so th
 
 ##How It Works
 
-This is AIOS. She sits up here.
+This is AIOS. She lives up here.
 
 ![alt text](screenshots/screenshot1.png "AIOS")
 
@@ -83,7 +83,7 @@ It currently only works on **Mac OSX**, but will be ported to Windows and Linux 
 [openCV - Open Source Computer Vision](http://opencv.org/)  
 [Qt](http://www.qt.io/) (only required for GUI, you can build a command-line version without it)
 
-###Installation  
+###Build  
 Hopefully you can just open '/src/Aios.pro' in Qt and press build. This is a brand new project that hasn't been tested on many systems yet, so if you have any issues please let me know!
 
 ##Documentation
@@ -108,7 +108,7 @@ Command | Description
 **wait ? seconds** | This will pause AIOS for a specified amount of seconds  
 **wait until ? is visible** | This will pause AIOS until a specified image appears on the screen
 **showGUI** | This will make the AIOS GUI visible. This may be a desired feature in 'presentation mode'.  
-**hideGUI** | This will hide the AIOS GUI visible.
+**hideGUI** | This will hide the AIOS GUI. This may be a desired feature in 'presentation mode'.
 
 **The following commands can be used to add conditions and repeats to your automations:**
 
